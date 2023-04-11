@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Ubuntu&display=swap');
 
 * {
     box-sizing: border-box;
 }
 
 body {
-    background-image: linear-gradient(white, rgb(195, 238, 224));
+    background-image: linear-gradient(white, rgb(198, 233, 221));
     font-family: 'Ubuntu', sans-serif;
     display: flex;
     flex-direction: column;
@@ -15,10 +15,21 @@ body {
     overflow: hidden;
     margin: 0;
     text-align: center;
+    line-height: 1.8;
 }
 
 h1 {
-    padding-top: 75px;
+    padding-top: 10px;
+}
+
+h1, h2 {
+    font-family: 'Handlee', cursive;
+    letter-spacing: 0.1em;
+}
+
+.surname {
+    text-decoration: solid underline rgb(31, 156, 160) 4px;
+    text-underline-position: under;
 }
 
 .content {

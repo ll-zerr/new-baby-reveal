@@ -1,6 +1,6 @@
 const loadText = document.querySelector(".loading-text");
 const reveal = document.querySelector(".reveal");
-const babyName = document.querySelector(".name");
+const babyName = document.querySelector(".given-name");
 
 let load = 0
 
