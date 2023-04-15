@@ -91,11 +91,35 @@ h1, h2 {
 }
 
 .stats {
+    background-color: white;
     border: 2px solid grey;
     border-radius: 10px;
-    box-shadow: 10px 5px 5px rgb(146, 146, 146);
+    box-shadow: 10px 5px 5px rgb(151, 207, 195);
+    font-family: 'Handlee', cursive;
+    font-size: 1.1rem;
     line-height: 1;
     padding: 5px 40px;
+    text-align: left;
+    position: relative;
+}
+
+.stat-item span {
+    text-decoration: underline dotted;
+    text-underline-position: under;
+    margin-right: 5px;
+}
+
+.stats-close {
+    position: absolute;
+    padding: 5px 8px;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+}
+
+.stats-close:hover {
+    background-color: rgb(182, 180, 180);
+    border-radius: 50%;
 }
 
 .stork {
@@ -112,6 +136,10 @@ h1, h2 {
 
 .hide {
     display: none;
+}
+
+.show {
+    display: block;
 }
 
 /* stork icon */

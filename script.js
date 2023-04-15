@@ -1,6 +1,9 @@
 const loadText = document.querySelector(".loading-text");
 const reveal = document.querySelector(".reveal");
 const babyName = document.querySelector(".given-name");
+const stats = document.querySelector(".stats");
+const btn = document.querySelector(".btn");
+const removeStats = document.querySelector(".stats-close")
 
 let load = 0
 
@@ -25,4 +28,16 @@ function blurring() {
 const scale = (number, inMin, inMax, outMin, outMax) => {
     return (number - inMin) * (outMax - outMin) / (inMax - inMin) + outMin;
 }
+
+btn.addEventListener("click", getInformation);
+
+function getInformation () {
+    btn.classList.add("hide");
+    stats.classList.add("show");
+}
+
+removeStats.addEventListener("click", function() {
+    stats.classList.remove("show");
+    btn.classList.remove("hide");
+})
 
