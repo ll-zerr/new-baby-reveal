@@ -142,5 +142,12 @@ h1, h2 {
     display: block;
 }
 
+.footer {
+    width: 70%;
+    font-size: smaller;
+    display: flex;
+    justify-content: space-around;
+}
+
 /* stork icon */
 /* <a href="https://www.flaticon.com/free-icons/stork" title="stork icons">Stork icons created by Freepik - Flaticon</a> */
