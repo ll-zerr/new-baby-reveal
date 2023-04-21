@@ -26,3 +26,5 @@ This is a modification to the [Blurry Loading project in the Udemy course 50 Pro
 Project idea: Brad Traversy, Florin Pop [Udemy course 50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+50+days)
 
 Original HTML, CSS & Javascript provided by: Brad Traversy, Florin Pop [Udemy course 50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+50+days)
+
+Baby Image: [Filip Mroz](https://unsplash.com/@mroz) on [Unsplash](https://unsplash.com/photos/oko_4WnoM98)
