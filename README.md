@@ -4,7 +4,7 @@ This is an application of the [Blurry Loading project in the Udemy course 50 Pro
 
 ## Project Details
 
-### View My Project:
+### View My Project: [https://ll-zerr.github.io/new-baby-reveal/](https://ll-zerr.github.io/new-baby-reveal/)
 
 ![Screenshot](img/smartmockups_bnrbe-copy.jpg)
 
