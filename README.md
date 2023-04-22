@@ -1,6 +1,6 @@
-# Blur Effect Name Reveal
+# Blur Effect Image Reveal
 
-This is a modification to the [Blurry Loading project in the Udemy course 50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+50+days).
+This is an application of the [Blurry Loading project in the Udemy course 50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+50+days) to a new baby image reveal.
 
 ## Project Details
 
@@ -10,10 +10,10 @@ This is a modification to the [Blurry Loading project in the Udemy course 50 Pro
 
 ## Features
 
-- Baby image loads blurry
-- Countdown occurs for image reveal
-- Name changes color on reveal to indicate gender
-- Information button can be clicked to show or hide birth info
+- Baby image loads blurry.
+- Countdown occurs for image reveal.
+- Name changes color on reveal to indicate gender.
+- Information button can be clicked to show or hide birth info.
 
 ## Technologies Used
 
