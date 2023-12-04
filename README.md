@@ -1,6 +1,6 @@
 # Blur Effect Image Reveal
 
-This is an application of the [Blurry Loading project in the Udemy course 50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+50+days) to a new baby image reveal.
+This is an application of the Blurry Loading project in the [Udemy course 50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+50+days) to a new baby image reveal.
 
 ## Project Details
 
